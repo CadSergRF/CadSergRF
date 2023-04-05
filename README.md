@@ -28,3 +28,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=CadSergRF&theme=tokyonight&locale=ru&fire=EB5454)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CadSergRF&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+<div id="views-counter" align="center">
+  <img src="https://komarev.com/ghpvc/?username=CadSergRF&style=plastic&color=blue" alt="Views counter">
+</div>
