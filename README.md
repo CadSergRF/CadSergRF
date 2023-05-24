@@ -1,11 +1,13 @@
 
 <h1 align="center">Привет &#128075; меня зовут Сергей</h1>
 
-### :left_speech_bubble: Обо мне:
+### Обо мне:
 
 Я начинающий frontend-developer из России
 
 - Занимаюсь разработкой сайтов и веб-приложений, различной сложности. Информацию о используемом мной стеке можно найти ниже :point_down:
+
+---
 
 <div id="badges-connection" align="center">
   <h3 id="header-connection" >Связаться со мной</h3>
@@ -16,6 +18,8 @@
     <img src="https://img.shields.io/badge/email-orange?style=for-the-badge&logo=mail.ru&logoColor=white" alt="e-mail"/>
   </a>
 </div>
+
+---
 
 ### :hammer_and_wrench: Используемый стек и инструменты:
 
