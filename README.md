@@ -1,5 +1,5 @@
 
-<h1 align="center">Привет &#128075; меня зовут Сергей</h1>
+<h1>Привет &#128075; меня зовут Сергей</h1>
 
 ### Обо мне:
 
@@ -9,7 +9,7 @@
 
 ---
 
-<div id="badges-connection" align="center">
+<div id="badges-connection">
   <h3 id="header-connection" >Связаться со мной</h3>
   <a taget="_blank" href="https://t.me/CadSerg">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
